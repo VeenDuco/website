@@ -40,3 +40,9 @@ img {
 img-circle {
   border-radius: 50%;
 }
+/* Navbar container 
+ from https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp*/
+/*.navbar {
+  background-color: #101010;
+  color: #ffffff;
+}

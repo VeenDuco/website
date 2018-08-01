@@ -1,5 +1,18 @@
 ---
 ---
 <link rel="stylesheet" href="styles.css" type="text/css">
-<br>
-<iframe src="https://utrecht-university.shinyapps.io/klapp/" style="border: 5px solid; width: 1200px; height: 800px;"></iframe>
+
+[<img src="img/klapp.png" border:10px solid; width=250px; align="left" style="margin:0px 50px">](shiny_klapp.html)
+
+### Kullback-Leibler divergence
+This application shows a visual representation of Kullback-Leibler Divergence.
+
+
+<br clear="all" />
+
+
+[<img src="img/samplingcorrelations.png" width = 250px; border:10px solid; align="left" style="margin:0px 50px">](shiny_samplingcorrelations.html) 
+
+### Sampling Correlations
+This application was developed for educational purposes. It shows sampling from a bivariate distribution under different sample sizes and true correlations. The application also shows the history or sampling distribution for both the correlation statistic and its p-value if multiple samples from the same population are drawn.
+
