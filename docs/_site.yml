@@ -7,3 +7,6 @@ navbar:
       href: index.html
     - text: "Publications"
       href: publications.html
+    - text: "shiny applications"
+      href: shiny.html
+      
