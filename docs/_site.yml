@@ -1,0 +1,8 @@
+name: "my-website"
+navbar:
+  title: "Duco Veen"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Publications"
+      href: publications.html
