@@ -5,7 +5,7 @@
 ### Shiny applications
 <hr>
 
-[<img src="img/klapp.png" border:10px solid; width=250px; align="right" style="margin:0px 50px">](shiny_klapp.html)
+[<img src="img/klapp.png" border:0px solid; width=250px; align="right" style="margin:0px 0px">](shiny_klapp.html)
 
 ##### Kullback-Leibler divergence
 This application shows a visual representation of Kullback-Leibler (KL) Divergence. It was created to support the explanation of KL divergence in the manuscript "Using the Data Agreement Criterion to Rank Experts' Beliefs"
@@ -14,14 +14,14 @@ This application shows a visual representation of Kullback-Leibler (KL) Divergen
 <br clear="all" />
 
 
-[<img src="img/samplingcorrelations.PNG" width = 250px; border:10px solid; align="right" style="margin:0px 50px">](shiny_samplingcorrelations.html) 
+[<img src="img/samplingcorrelations.PNG" border:0px solid; width = 250px; align="right" style="margin:0px 0px">](shiny_samplingcorrelations.html) 
 
 ##### Sampling Correlations
 This application was developed for educational purposes. It shows sampling from a bivariate distribution under different sample sizes and true correlations. The application also shows the history or sampling distribution for both the correlation statistic and its p-value if multiple samples from the same population are drawn.
 
 <br clear="all" />
 
-[<img src="img/five_step.png" border:10px solid; width=250px; align="right" style="margin:0px 50px">](shiny_five_step.html)
+[<img src="img/five_step.png" border:0px solid; width=250px; align="right" style="margin:0px 0px">](shiny_five_step.html)
 
 ##### Five-Step Elicitation Tool
 This application can be used in a <a href="doc/proposal_for_a_five_step_method.pdf" target="_blank" rel="noopener">Five-Step method elicitation procedure</a>. 
@@ -31,7 +31,7 @@ This application can be used in a <a href="doc/proposal_for_a_five_step_method.p
 
 ### R packages
 <hr>
-[<img src="img/GLMMRR.png" border:10px solid; width = 250px;  align="right" style="margin:0px 50px">](https://cran.r-project.org/web/packages/GLMMRR/) 
+[<img src="img/GLMMRR.png" border:0px solid; width = 250px;  align="right" style="margin:0px 0px">](https://cran.r-project.org/web/packages/GLMMRR/) 
 
 ##### GLMMRR 
 
@@ -39,7 +39,7 @@ This package can be used to analyse Generalized Linear Mixed Model (GLMM) for Bi
 
 <br clear="all" />
 
-[<img src="img/DAC.png" border:10px solid; width = 250px;  align="right" style="margin:0px 50px">](https://cran.r-project.org/web/packages/DAC/) 
+[<img src="img/DAC.png" border:0px solid; width = 250px;  align="right" style="margin:0px 0px">](https://cran.r-project.org/web/packages/DAC/) 
 
 ##### DAC
 
