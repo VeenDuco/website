@@ -14,7 +14,7 @@ This application shows a visual representation of Kullback-Leibler (KL) Divergen
 <br clear="all" />
 
 
-[<img src="img/samplingcorrelations.png" width = 250px; border:10px solid; align="right" style="margin:0px 50px">](shiny_samplingcorrelations.html) 
+[<img src="img/samplingcorrelations.PNG" width = 250px; border:10px solid; align="right" style="margin:0px 50px">](shiny_samplingcorrelations.html) 
 
 ##### Sampling Correlations
 This application was developed for educational purposes. It shows sampling from a bivariate distribution under different sample sizes and true correlations. The application also shows the history or sampling distribution for both the correlation statistic and its p-value if multiple samples from the same population are drawn.
