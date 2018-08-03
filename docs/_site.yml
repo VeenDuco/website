@@ -10,4 +10,6 @@ navbar:
     - text: "Software"
       href: software.html
       
-      
+  right:
+   - icon: fa-github fa-lg
+     href: http://github.com/VeenDuco
