@@ -19,8 +19,8 @@ navbar:
   right:
    - icon: fa-github fa-lg
      href: http://github.com/VeenDuco
-   - icon: fab fa-researchgate fa-lg
-     href: https://www.researchgate.net/profile/Duco_Veen
+   #- icon: fab fa-researchgate fa-lg
+   #  href: https://www.researchgate.net/profile/Duco_Veen
    - icon: fa-linkedin fa-lg
      href: https://www.linkedin.com/in/duco-veen-162931b4/
    - icon: fa-university fa-lg
