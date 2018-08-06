@@ -13,18 +13,38 @@ This application shows a visual representation of Kullback-Leibler (KL) Divergen
 
 <br clear="all" />
 
-
-[<img src="img/sampling.PNG" border:0px solid; width = 250px; align="right" style="margin:0px 0px">](shiny_samplingcorrelations.html) 
-
-##### Sampling Correlations
-This application was developed for educational purposes. It shows sampling from a bivariate distribution under different sample sizes and true correlations. The application also shows the history or sampling distribution for both the correlation statistic and its p-value if multiple samples from the same population are drawn.
-
-<br clear="all" />
-
 [<img src="img/five_step.png" border:0px solid; width=250px; align="right" style="margin:0px 0px">](shiny_five_step.html)
 
 ##### Five-Step Elicitation Tool
 This application can be used in a <a href="doc/proposal_for_a_five_step_method.pdf" target="_blank" rel="noopener">Five-Step method elicitation procedure</a>. 
 
 
+<br clear="all" />
 
+[<img src="img/effects_coding_simulation.png" border:0px solid; width=250px; align="right" style="margin:0px 0px">](shiny_effects_coding_simulation.html)
+
+##### Effects-Coding simulation tool
+This shiny web application is developed to accompany the manuscript 'Effects Coding as Unbiased Alternative to Scale Scores'. Using this application you can play around with setting parameter values for a 2 factor Confirmatory Factor Analysis. You can also add unobserved bias to the model to see what this does to your the estimation. 
+
+<br clear="all" />
+
+[<img src="img/effects_coding_calculation.png" border:0px solid; width=250px; align="right" style="margin:0px 0px">](shiny_effects_coding_calculation.html)
+
+##### Effects-Coding simulation tool
+This shiny web application is developed such that you can calculate your own factor score model using the Effects-Coding parametrisation. 
+
+
+<br clear="all" />
+
+[<img src="img/correlation.png" border:0px solid; width=250px; align="right" style="margin:0px 0px">](shiny_correlation.html)
+
+##### Correlational statistics
+This application was developed for educational purposes. Draw your own bivariate distribution and see what correlations and regression models you would find. See for yourself what adding an outlier will do if you have little data for instance. 
+
+<br clear="all" />
+
+
+[<img src="img/sampling.PNG" border:0px solid; width = 250px; align="right" style="margin:0px 0px">](shiny_samplingcorrelations.html) 
+
+##### Sampling Correlations
+This application was developed for educational purposes. It shows sampling from a bivariate distribution under different sample sizes and true correlations. The application also shows the history or sampling distribution for both the correlation statistic and its p-value if multiple samples from the same population are drawn.
