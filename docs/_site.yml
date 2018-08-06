@@ -9,10 +9,12 @@ navbar:
     - text: "Publications"
       href: publications.html
     - text: "Software"
-      href: software.html
+      #href: software.html
       menu: 
       - text: "R packages"
+        href: software_rpackages.html
       - text: "Shiny Applications"
+        href: software_shiny.html
       
   right:
    - icon: fa-github fa-lg

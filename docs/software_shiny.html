@@ -22,6 +22,9 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -186,12 +189,47 @@ $(document).ready(function () {
 <li>
   <a href="publications.html">Publications</a>
 </li>
-<li>
-  <a href="software.html">Software</a>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Software
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="software_rpackages.html">R packages</a>
+    </li>
+    <li>
+      <a href="software_shiny.html">Shiny Applications</a>
+    </li>
+  </ul>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        
+        <li>
+  <a href="http://github.com/VeenDuco">
+    <span class="fa fa-github fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.researchgate.net/profile/Duco_Veen">
+    <span class="fab fa fab fa-researchgate fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/duco-veen-162931b4/">
+    <span class="fa fa-linkedin fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.uu.nl/staff/dveen/0">
+    <span class="fa fa-university fa-lg"></span>
+     
+  </a>
+</li>
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -225,22 +263,6 @@ $(document).ready(function () {
 <div id="five-step-elicitation-tool" class="section level5">
 <h5>Five-Step Elicitation Tool</h5>
 <p>This application can be used in a <a href="doc/proposal_for_a_five_step_method.pdf" target="_blank" rel="noopener">Five-Step method elicitation procedure</a>.</p>
-<p><br clear="all" /></p>
-</div>
-</div>
-<div id="r-packages" class="section level3">
-<h3>R packages</h3>
-<hr>
-<p><a href="https://cran.r-project.org/web/packages/GLMMRR/"><img src="img/GLMMRR.png" border:0px solid; width = 250px;  align="right" style="margin:0px 0px"></a></p>
-<div id="glmmrr" class="section level5">
-<h5>GLMMRR</h5>
-<p>This package can be used to analyse Generalized Linear Mixed Model (GLMM) for Binary Randomized Response (RR) Data. Link functions that can be used are Cauchit, Compl. Log-Log, Logistic, and Probit link functions for Bernoulli Distributed RR data. RR designs that are included are: Warner, Forced Response, Unrelated Question, Kuk, Crosswise, and Triangular.</p>
-<p><br clear="all" /></p>
-<p><a href="https://cran.r-project.org/web/packages/DAC/"><img src="img/DAC.png" border:0px solid; width = 250px;  align="right" style="margin:0px 0px"></a></p>
-</div>
-<div id="dac" class="section level5">
-<h5>DAC</h5>
-<p>Allows to calculate Data Agreement Criterion (DAC) scores. This can be done to determine prior-data conflict or to evaluate and compare multiple priors, which can be experts’ predictions for instance.</p>
 </div>
 </div>
 
