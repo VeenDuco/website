@@ -28,7 +28,7 @@ This shiny web application is developed to accompany the manuscript 'Effects Cod
 
 <br clear="all" />
 
-[<img src="img/EC_calculation.png" border:0px solid; width=250px; align="right" style="margin:0px 0px">](shiny_effects_coding_calculation.html)
+[<img src="img/EC_calculation.PNG" border:0px solid; width=250px; align="right" style="margin:0px 0px">](shiny_effects_coding_calculation.html)
 
 ##### Effects-Coding calculation
 This shiny web application is developed such that you can calculate your own factor score model using the Effects-Coding parametrisation. 
