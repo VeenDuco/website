@@ -27,20 +27,4 @@ This application was developed for educational purposes. It shows sampling from 
 This application can be used in a <a href="doc/proposal_for_a_five_step_method.pdf" target="_blank" rel="noopener">Five-Step method elicitation procedure</a>. 
 
 
-<br clear="all" />
 
-### R packages
-<hr>
-[<img src="img/GLMMRR.png" border:0px solid; width = 250px;  align="right" style="margin:0px 0px">](https://cran.r-project.org/web/packages/GLMMRR/) 
-
-##### GLMMRR 
-
-This package can be used to analyse Generalized Linear Mixed Model (GLMM) for Binary Randomized Response (RR) Data. Link functions that can be used are Cauchit, Compl. Log-Log, Logistic, and Probit link functions for Bernoulli Distributed RR data. RR designs that are included are: Warner, Forced Response, Unrelated Question, Kuk, Crosswise, and Triangular.
-
-<br clear="all" />
-
-[<img src="img/DAC.png" border:0px solid; width = 250px;  align="right" style="margin:0px 0px">](https://cran.r-project.org/web/packages/DAC/) 
-
-##### DAC
-
-Allows to calculate Data Agreement Criterion (DAC) scores. This can be done to determine prior-data conflict or to evaluate and compare multiple priors, which can be experts' predictions for instance.
