@@ -8,6 +8,8 @@
 
 ##### Published or Accepted
 <br>
+**Veen, D.**, Stoel, D., Schalken, N., Mulder, K. & van de Schoot, R. (2018). Using the data agreement criterion to rank experts' beliefs. *entropy*. 20(8). doi: 10.3390/e20080592 <a href="http://www.mdpi.com/1099-4300/20/8/592/pdf" target="_blank" rel="noopener">download here</a>.
+
 Fox, J-P, **Veen, D.**, & Klotzke, K. (2018). Generalized Linear Mixed Models for Randomized Responses. (manuscript accepted for publication in *methodology*).
 
 **Veen, D.**, Stoel ,D., Zondervan-Zwijnenburg, M. & van de Schoot, R. (2017) Proposal for a Five-Step Method to Elicit Expert Judgment. *Front. Psychol*. 8:2110. doi: 10.3389/fpsyg.2017.02110 <a href="doc/proposal_for_a_five_step_method.pdf" target="_blank" rel="noopener">download here</a>.
@@ -24,8 +26,6 @@ Treatment of internal carotid artery NEar occlusiON (NEON study): An individual 
 **Veen, D.**, Little, T.D. & van de Schoot, R. (2018). Effects Coding as Unbiased Alternative to Scale Scores. (manuscript under review).
 
 de Klerk, M., **Veen, D.**, Wijnen, F. & de Bree, E. (2018). A Step Forward: Bayesian Hierarchical Modelling as a Tool in Assessment of Individual Discrimination Performance. (manuscript under review).
-
-**Veen, D.**, Stoel, D., Schalken, N., Mulder, K. & van de Schoot, R. (2018). Using the data agreement criterion to rank experts' beliefs. (manuscript in revision). <a href="doc/using_DAC_to_rank_experts_beliefs_arxiv_preprint.pdf" target="_blank" rel="noopener">arXiv preprint</a>.
 
 <br>
 
