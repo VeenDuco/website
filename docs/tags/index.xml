@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Duco Veen</title>
-    <link>/website/tags/</link>
-      <atom:link href="/website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://veenduco.github.io/website/tags/</link>
+      <atom:link href="https://veenduco.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/website/img/icon-192.png</url>
+      <url>https://veenduco.github.io/website/img/icon-192.png</url>
       <title>Tags</title>
-      <link>/website/tags/</link>
+      <link>https://veenduco.github.io/website/tags/</link>
     </image>
     
     <item>
       <title>Bayesian statistics</title>
-      <link>/website/tags/bayesian-statistics/</link>
+      <link>https://veenduco.github.io/website/tags/bayesian-statistics/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/website/tags/bayesian-statistics/</guid>
+      <guid>https://veenduco.github.io/website/tags/bayesian-statistics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>elicitation</title>
-      <link>/website/tags/elicitation/</link>
+      <link>https://veenduco.github.io/website/tags/elicitation/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/website/tags/elicitation/</guid>
+      <guid>https://veenduco.github.io/website/tags/elicitation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>expert judgment</title>
-      <link>/website/tags/expert-judgment/</link>
+      <link>https://veenduco.github.io/website/tags/expert-judgment/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/website/tags/expert-judgment/</guid>
+      <guid>https://veenduco.github.io/website/tags/expert-judgment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>expert knowledge</title>
-      <link>/website/tags/expert-knowledge/</link>
+      <link>https://veenduco.github.io/website/tags/expert-knowledge/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/website/tags/expert-knowledge/</guid>
+      <guid>https://veenduco.github.io/website/tags/expert-knowledge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Five-Step Method</title>
-      <link>/website/tags/five-step-method/</link>
+      <link>https://veenduco.github.io/website/tags/five-step-method/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/website/tags/five-step-method/</guid>
+      <guid>https://veenduco.github.io/website/tags/five-step-method/</guid>
       <description></description>
     </item>
     
     <item>
       <title>prior</title>
-      <link>/website/tags/prior/</link>
+      <link>https://veenduco.github.io/website/tags/prior/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/website/tags/prior/</guid>
+      <guid>https://veenduco.github.io/website/tags/prior/</guid>
       <description></description>
     </item>
     

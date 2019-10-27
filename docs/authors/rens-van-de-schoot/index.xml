@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rens van de Schoot | Duco Veen</title>
-    <link>/website/authors/rens-van-de-schoot/</link>
-      <atom:link href="/website/authors/rens-van-de-schoot/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://veenduco.github.io/website/authors/rens-van-de-schoot/</link>
+      <atom:link href="https://veenduco.github.io/website/authors/rens-van-de-schoot/index.xml" rel="self" type="application/rss+xml" />
     <description>Rens van de Schoot</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/website/img/icon-192.png</url>
+      <url>https://veenduco.github.io/website/img/icon-192.png</url>
       <title>Rens van de Schoot</title>
-      <link>/website/authors/rens-van-de-schoot/</link>
+      <link>https://veenduco.github.io/website/authors/rens-van-de-schoot/</link>
     </image>
     
     <item>
       <title>Proposal for a Five-Step Method to Elicit Expert Judgment</title>
-      <link>/website/publication/five-step-method/</link>
+      <link>https://veenduco.github.io/website/publication/five-step-method/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/website/publication/five-step-method/</guid>
+      <guid>https://veenduco.github.io/website/publication/five-step-method/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
