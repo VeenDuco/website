@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Duco Veen</title>
+    <link>/new_site/authors/</link>
+      <atom:link href="/new_site/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/new_site/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/new_site/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/new_site/authors/admin/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/new_site/authors/admin/</guid>
+      <description>&lt;p&gt;I am a PhD Candidate at the department of Methodology &amp;amp; Statistics of Utrecht University in the Netherlands. My research interests lie primarily in the area of Bayesian statistics. My docteral projects under the supervision of &lt;a href=&#34;https://www.rensvandeschoot.com/&#34; target=&#34;_blank&#34;&gt;Rens van de Schoot&lt;/a&gt; concerns the elicitation of expert judgements in the social sciences and we investigate expert-data (dis)agreements.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diederick Stoel</title>
+      <link>/new_site/authors/diederick-stoel/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/new_site/authors/diederick-stoel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mariëlle Zondervan-Zwijnenburg</title>
+      <link>/new_site/authors/marielle-zondervan-zwijnenburg/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/new_site/authors/marielle-zondervan-zwijnenburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rens van de Schoot</title>
+      <link>/new_site/authors/rens-van-de-schoot/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/new_site/authors/rens-van-de-schoot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
