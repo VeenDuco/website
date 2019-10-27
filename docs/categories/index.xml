@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Duco Veen</title>
-    <link>https://veenduco.github.io/website/categories/</link>
-      <atom:link href="https://veenduco.github.io/website/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.ducoveen.com/categories/</link>
+      <atom:link href="https://www.ducoveen.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://veenduco.github.io/website/img/icon-192.png</url>
+      <url>https://www.ducoveen.com/img/icon-192.png</url>
       <title>Categories</title>
-      <link>https://veenduco.github.io/website/categories/</link>
+      <link>https://www.ducoveen.com/categories/</link>
     </image>
     
   </channel>

@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Duco Veen</title>
-    <link>https://veenduco.github.io/website/tags/</link>
-      <atom:link href="https://veenduco.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.ducoveen.com/tags/</link>
+      <atom:link href="https://www.ducoveen.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://veenduco.github.io/website/img/icon-192.png</url>
+      <url>https://www.ducoveen.com/img/icon-192.png</url>
       <title>Tags</title>
-      <link>https://veenduco.github.io/website/tags/</link>
+      <link>https://www.ducoveen.com/tags/</link>
     </image>
     
     <item>
       <title>Bayesian statistics</title>
-      <link>https://veenduco.github.io/website/tags/bayesian-statistics/</link>
+      <link>https://www.ducoveen.com/tags/bayesian-statistics/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://veenduco.github.io/website/tags/bayesian-statistics/</guid>
+      <guid>https://www.ducoveen.com/tags/bayesian-statistics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>elicitation</title>
-      <link>https://veenduco.github.io/website/tags/elicitation/</link>
+      <link>https://www.ducoveen.com/tags/elicitation/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://veenduco.github.io/website/tags/elicitation/</guid>
+      <guid>https://www.ducoveen.com/tags/elicitation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>expert judgment</title>
-      <link>https://veenduco.github.io/website/tags/expert-judgment/</link>
+      <link>https://www.ducoveen.com/tags/expert-judgment/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://veenduco.github.io/website/tags/expert-judgment/</guid>
+      <guid>https://www.ducoveen.com/tags/expert-judgment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>expert knowledge</title>
-      <link>https://veenduco.github.io/website/tags/expert-knowledge/</link>
+      <link>https://www.ducoveen.com/tags/expert-knowledge/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://veenduco.github.io/website/tags/expert-knowledge/</guid>
+      <guid>https://www.ducoveen.com/tags/expert-knowledge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Five-Step Method</title>
-      <link>https://veenduco.github.io/website/tags/five-step-method/</link>
+      <link>https://www.ducoveen.com/tags/five-step-method/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://veenduco.github.io/website/tags/five-step-method/</guid>
+      <guid>https://www.ducoveen.com/tags/five-step-method/</guid>
       <description></description>
     </item>
     
     <item>
       <title>prior</title>
-      <link>https://veenduco.github.io/website/tags/prior/</link>
+      <link>https://www.ducoveen.com/tags/prior/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://veenduco.github.io/website/tags/prior/</guid>
+      <guid>https://www.ducoveen.com/tags/prior/</guid>
       <description></description>
     </item>
     
