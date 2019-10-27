@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Duco Veen</title>
-    <link>/new_site/publication/</link>
-      <atom:link href="/new_site/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://veenduco.github.io/website/publication/</link>
+      <atom:link href="https://veenduco.github.io/website/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/new_site/img/icon-192.png</url>
+      <url>https://veenduco.github.io/website/img/icon-192.png</url>
       <title>Publications</title>
-      <link>/new_site/publication/</link>
+      <link>https://veenduco.github.io/website/publication/</link>
     </image>
     
     <item>
       <title>Proposal for a Five-Step Method to Elicit Expert Judgment</title>
-      <link>/new_site/publication/five-step-method/</link>
+      <link>https://veenduco.github.io/website/publication/five-step-method/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/new_site/publication/five-step-method/</guid>
+      <guid>https://veenduco.github.io/website/publication/five-step-method/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
