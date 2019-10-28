@@ -80,6 +80,14 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     </item>
     
     <item>
+      <title>Simulation Based Calibration (SBC)</title>
+      <link>/project/shiny-sbc/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/project/shiny-sbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Meta analysis of the outcomes of treatment of internal carotid artery near occlusion</title>
       <link>/publication/meta-analysis/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
@@ -99,6 +107,14 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
 
 &lt;!--Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>shinystan 3.0</title>
+      <link>/project/package-shinystan3/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/project/package-shinystan3/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -183,6 +199,46 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
 
 &lt;!--Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Draw your correlation</title>
+      <link>/project/shiny-correlation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/project/shiny-correlation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GLMMRR</title>
+      <link>/project/package-glmmrr/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/project/package-glmmrr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Play with sampling distribution of correlation</title>
+      <link>/project/shiny-sampling/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/project/shiny-sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Five-Step Method Elicitation tool</title>
+      <link>/project/shiny-five-step/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/project/shiny-five-step/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kullback-Leibler Divergences</title>
+      <link>/project/shiny-klapp/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/project/shiny-klapp/</guid>
+      <description></description>
     </item>
     
   </channel>

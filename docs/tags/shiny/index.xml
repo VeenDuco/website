@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiny | Duco Veen</title>
+    <link>/tags/shiny/</link>
+      <atom:link href="/tags/shiny/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shiny</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Shiny</title>
+      <link>/tags/shiny/</link>
+    </image>
+    
+    <item>
+      <title>Simulation Based Calibration (SBC)</title>
+      <link>/project/shiny-sbc/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/project/shiny-sbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Draw your correlation</title>
+      <link>/project/shiny-correlation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/project/shiny-correlation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Play with sampling distribution of correlation</title>
+      <link>/project/shiny-sampling/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/project/shiny-sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Five-Step Method Elicitation tool</title>
+      <link>/project/shiny-five-step/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/project/shiny-five-step/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kullback-Leibler Divergences</title>
+      <link>/project/shiny-klapp/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/project/shiny-klapp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

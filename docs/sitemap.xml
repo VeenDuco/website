@@ -103,6 +103,21 @@
   </url>
   
   <url>
+    <loc>/project/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/shiny/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/shiny-sbc/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/armelle-meershoek/</loc>
     <lastmod>2019-04-11T00:00:00+00:00</lastmod>
   </url>
@@ -125,6 +140,16 @@
   <url>
     <loc>/publication/meta-analysis/</loc>
     <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r-package/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/package-shinystan3/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -275,6 +300,31 @@
   <url>
     <loc>/publication/five-step-method/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/shiny-correlation/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/package-glmmrr/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/shiny-sampling/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/shiny-five-step/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/shiny-klapp/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
