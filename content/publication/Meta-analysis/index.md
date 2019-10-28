@@ -26,7 +26,8 @@ tags:
 title: Meta analysis of the outcomes of treatment of internal carotid artery near occlusion
 url_code: ""
 url_dataset: ""
-url_pdf: https://doi.org/10.1002/bjs.1115
+url_pdf: https://doi.org/10.1002/bjs.11159
+
 url_poster: ""
 url_project: ""
 url_slides: ""
