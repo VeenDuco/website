@@ -3,102 +3,282 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.ducoveen.com/</loc>
+    <loc>/</loc>
     <lastmod>2019-10-31T18:50:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ducoveen.com/talk/shinystan/</loc>
+    <loc>/talk/shinystan/</loc>
     <lastmod>2019-10-31T18:50:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ducoveen.com/talk/</loc>
+    <loc>/talk/</loc>
     <lastmod>2019-10-31T18:50:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ducoveen.com/authors/admin/</loc>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/a-step-forward/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/autoregressive-error-structure/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bayesian-hierarchical-modeling/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/elise-de-bree/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/frank-wijnen/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hybrid-visual-fixation/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/individual-analysis/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/maartje-de-klerk/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/speech-sound-discrimination/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/irene-klugkist/</loc>
+    <lastmod>2019-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/discussion-of-liu-et-al/</loc>
+    <lastmod>2019-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/armelle-meershoek/</loc>
+    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/evelien-de-vries/</loc>
+    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/gert-jan-de-borst/</loc>
+    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/hester-den-ruijter/</loc>
+    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/meta-analysis/</loc>
+    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/glmmrr/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/generalized-linear-model/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jean-paul-fox/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/konrad-klotzke/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mixed-effect-model/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/randomized-response/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/social-desirability/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/survey-designs/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bayes/</loc>
+    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bayes-factor/</loc>
+    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/decision-making/</loc>
+    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/diederick-stoel/</loc>
+    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/expert-judgement/</loc>
+    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kees-mulder/</loc>
+    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/kullback-leibler-divergence/</loc>
+    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/naomi-schalken/</loc>
+    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/prior-data-disagreement/</loc>
+    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ranking/</loc>
+    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rens-van-de-schoot/</loc>
+    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/dac/</loc>
+    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bayesian-statistics/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ducoveen.com/publication_types/2/</loc>
+    <loc>/tags/elicitation/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ducoveen.com/authors/</loc>
+    <loc>/tags/expert-judgment/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ducoveen.com/tags/bayesian-statistics/</loc>
+    <loc>/tags/expert-knowledge/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ducoveen.com/authors/diederick-stoel/</loc>
+    <loc>/tags/five-step-method/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ducoveen.com/tags/elicitation/</loc>
+    <loc>/authors/marielle-zondervan-zwijnenburg/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ducoveen.com/tags/expert-judgment/</loc>
+    <loc>/tags/prior/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ducoveen.com/tags/expert-knowledge/</loc>
+    <loc>/publication/five-step-method/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ducoveen.com/tags/five-step-method/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ducoveen.com/authors/marielle-zondervan-zwijnenburg/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ducoveen.com/tags/prior/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ducoveen.com/publication/five-step-method/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ducoveen.com/publication_types/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ducoveen.com/publication/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ducoveen.com/authors/rens-van-de-schoot/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ducoveen.com/tags/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ducoveen.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
 </urlset>
