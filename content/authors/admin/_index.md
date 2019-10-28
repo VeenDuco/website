@@ -37,6 +37,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/veenduco
+- icon: id-card
+  icon_pack: fa
+  link: https://github.com/VeenDuco/website/tree/master/static/docs/CV.pdf
 superuser: true
 user_groups:
 - Researchers
