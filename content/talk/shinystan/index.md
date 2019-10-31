@@ -25,6 +25,10 @@ links:
   icon_pack: fab
   name: More Information
   url: https://www.linkedin.com/feed/update/urn:li:activity:6589804167131394049/
+- icon: slideshare
+  icon_pack: fab
+  name: Slides
+  url: https://github.com/VeenDuco/website/tree/master/static/slides/shinystan.pdf
 location: Dutch Healthcare Authority (“Nederlandse Zorgautoriteit”)
 math: true
 # projects:
