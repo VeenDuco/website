@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I am a PhD Candidate at the department of Methodology & Statistics of Utrecht University in the Netherlands. My research interests lie primarily in the area of Bayesian statistics. My docteral projects under the supervision of [Rens van de Schoot](https://www.rensvandeschoot.com/) concerns the elicitation of expert judgements in the social sciences and we investigate expert-data (dis)agreements. 
+bio: I currently hold a post-doctoral position at the department of Methodology & Statistics of Utrecht University in the Netherlands. From December until April I'm consulting as a scientific project manager for [Rick Grobbee](https://www.umcutrecht.nl/en/Research/Strategic-themes/Circulatory-Health/Prof-dr-Rick-Grobbee) at the University Medical Center Utrecht. My research interests lie primarily in the area of Bayesian statistics. My docteral thesis under the supervision of [Rens van de Schoot](https://www.rensvandeschoot.com/) concerned the use of Bayesian statistics, expert elicitation and information theory in the social sciences. I will defend my thesis on March 13 at the acadamy building in Utrecht.
 
 education:
   courses:
@@ -21,9 +21,11 @@ interests:
 - Randomized Repsonse Methodology
 name: Duco Veen
 organizations:
+- name: postdoc
 - name: Utrecht University
-  url: ""
-role: PhD Candidate
+- name:     
+- name: scientific project manager
+- name: University Medical Center Utrecht
 social:
 - icon: envelope
   icon_pack: fas
@@ -46,4 +48,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD Candidate at the department of Methodology & Statistics of Utrecht University in the Netherlands. My research interests lie primarily in the area of Bayesian statistics. My docteral projects under the supervision of [Rens van de Schoot](https://www.rensvandeschoot.com/) concerns the elicitation of expert judgements in the social sciences and we investigate expert-data (dis)agreements. 
+I currently hold a post-doctoral position at the department of Methodology & Statistics of Utrecht University in the Netherlands. From December until April I'm consulting as a scientific project manager for [Rick Grobbee](https://www.umcutrecht.nl/en/Research/Strategic-themes/Circulatory-Health/Prof-dr-Rick-Grobbee) at the University Medical Center Utrecht. My research interests lie primarily in the area of Bayesian statistics. My docteral thesis under the supervision of [Rens van de Schoot](https://www.rensvandeschoot.com/) concerned the use of Bayesian statistics, expert elicitation and information theory in the social sciences. I will defend my thesis on March 13 at the acadamy building in Utrecht.

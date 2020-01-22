@@ -20,7 +20,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Project
-  url: https://github.com/stan-dev/shinystan/tree/testing-modules
+  url: https://github.com/stan-dev/shinystan/tree/v3-alpha
 - icon: linkedin
   icon_pack: fab
   name: More Information

@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-10-31T18:50:00+00:00</lastmod>
+    <loc>/talk/dissertation_defense/</loc>
+    <lastmod>2020-03-13T10:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/shinystan/</loc>
-    <lastmod>2019-10-31T18:50:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-03-13T10:30:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/</loc>
+    <lastmod>2020-03-13T10:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/shinystan/</loc>
     <lastmod>2019-10-31T18:50:00+00:00</lastmod>
   </url>
   
