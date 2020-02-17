@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Feb 2020 00:01:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,10 +15,50 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Feb 2020 00:01:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I currently hold a post-doctoral position at the department of Methodology &amp;amp; Statistics of Utrecht University in the Netherlands. From December until April I&amp;rsquo;m consulting as a scientific project manager for &lt;a href=&#34;https://www.umcutrecht.nl/en/Research/Strategic-themes/Circulatory-Health/Prof-dr-Rick-Grobbee&#34; target=&#34;_blank&#34;&gt;Rick Grobbee&lt;/a&gt; at the University Medical Center Utrecht. My research interests lie primarily in the area of Bayesian statistics. My docteral thesis under the supervision of &lt;a href=&#34;https://www.rensvandeschoot.com/&#34; target=&#34;_blank&#34;&gt;Rens van de Schoot&lt;/a&gt; concerned the use of Bayesian statistics, expert elicitation and information theory in the social sciences. I will defend my thesis on March 13 at the acadamy building in Utrecht.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Laurent Smeets</title>
+      <link>/authors/laurent-smeets/</link>
+      <pubDate>Thu, 13 Feb 2020 00:01:00 +0000</pubDate>
+      <guid>/authors/laurent-smeets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rens van de Schoot</title>
+      <link>/authors/rens-van-de-schoot/</link>
+      <pubDate>Thu, 13 Feb 2020 00:01:00 +0000</pubDate>
+      <guid>/authors/rens-van-de-schoot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Depaoli</title>
+      <link>/authors/sarah-depaoli/</link>
+      <pubDate>Thu, 13 Feb 2020 00:01:00 +0000</pubDate>
+      <guid>/authors/sarah-depaoli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonja D. Winter</title>
+      <link>/authors/sonja-d.-winter/</link>
+      <pubDate>Thu, 13 Feb 2020 00:01:00 +0000</pubDate>
+      <guid>/authors/sonja-d.-winter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marthe Egberts</title>
+      <link>/authors/marthe-egberts/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/marthe-egberts/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -122,14 +162,6 @@
       <link>/authors/naomi-schalken/</link>
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
       <guid>/authors/naomi-schalken/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rens van de Schoot</title>
-      <link>/authors/rens-van-de-schoot/</link>
-      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/rens-van-de-schoot/</guid>
       <description></description>
     </item>
     

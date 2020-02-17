@@ -5,12 +5,20 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Feb 2020 00:01:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Bayesian statistics</title>
+      <link>/tags/bayesian-statistics/</link>
+      <pubDate>Thu, 13 Feb 2020 00:01:00 +0000</pubDate>
+      <guid>/tags/bayesian-statistics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Autoregressive error structure</title>
@@ -161,14 +169,6 @@
       <link>/tags/ranking/</link>
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
       <guid>/tags/ranking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian statistics</title>
-      <link>/tags/bayesian-statistics/</link>
-      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/bayesian-statistics/</guid>
       <description></description>
     </item>
     

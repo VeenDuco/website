@@ -5,12 +5,56 @@
     <link>/tags/bayesian-statistics/</link>
       <atom:link href="/tags/bayesian-statistics/index.xml" rel="self" type="application/rss+xml" />
     <description>Bayesian statistics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Feb 2020 00:01:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Bayesian statistics</title>
       <link>/tags/bayesian-statistics/</link>
     </image>
+    
+    <item>
+      <title>A Tutorial on Using The Wambs Checklist to Avoid The Misuse of Bayesian Statistics</title>
+      <link>/publication/tutorial-wambs/</link>
+      <pubDate>Thu, 13 Feb 2020 00:01:00 +0000</pubDate>
+      <guid>/publication/tutorial-wambs/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    #Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+--&gt;
+
+&lt;!--Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Importance of Collaboration in Bayesian Analyses with Small Samples</title>
+      <link>/publication/importance-collaboration/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/importance-collaboration/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    #Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+--&gt;
+
+&lt;!--Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>Proposal for a Five-Step Method to Elicit Expert Judgment</title>
