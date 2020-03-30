@@ -1,13 +1,13 @@
 ---
 authors:
 - admin
-bio: I currently hold a post-doctoral position at the department of Methodology & Statistics of Utrecht University in the Netherlands. From December until April I'm consulting as a scientific project manager for [Rick Grobbee](https://www.umcutrecht.nl/en/Research/Strategic-themes/Circulatory-Health/Prof-dr-Rick-Grobbee) at the University Medical Center Utrecht. My research interests lie primarily in the area of Bayesian statistics. My docteral thesis under the supervision of [Rens van de Schoot](https://www.rensvandeschoot.com/) concerned the use of Bayesian statistics, expert elicitation and information theory in the social sciences. I will defend my thesis on March 13 at the acadamy building in Utrecht.
+bio: I currently hold a post-doctoral position at the department of Methodology & Statistics of Utrecht University in the Netherlands. From December until April I'm consulting as a scientific project manager for [Rick Grobbee](https://www.umcutrecht.nl/en/Research/Strategic-themes/Circulatory-Health/Prof-dr-Rick-Grobbee) at the University Medical Center Utrecht. My research interests lie primarily in the area of Bayesian statistics. My docteral thesis, under the supervision of [Rens van de Schoot](https://www.rensvandeschoot.com/), concerned the use of Bayesian statistics, expert elicitation and information theory in the social sciences. I defended my thesis on March 13 at the acadamy building in Utrecht.
 
 education:
   courses:
   - course: PhD in Methodology and Statistics
     institution: Utrecht University
-    year: Currently PhD Candidate
+    year: 2020
   - course: MSc Methodology and Statistics in the behavioral, social and biomedical sciences (Cum Laude)
     institution: Utrecht University
     year: 2016
@@ -48,4 +48,4 @@ user_groups:
 - Visitors
 ---
 
-I currently hold a post-doctoral position at the department of Methodology & Statistics of Utrecht University in the Netherlands. From December until April I'm consulting as a scientific project manager for [Rick Grobbee](https://www.umcutrecht.nl/en/Research/Strategic-themes/Circulatory-Health/Prof-dr-Rick-Grobbee) at the University Medical Center Utrecht. My research interests lie primarily in the area of Bayesian statistics. My docteral thesis under the supervision of [Rens van de Schoot](https://www.rensvandeschoot.com/) concerned the use of Bayesian statistics, expert elicitation and information theory in the social sciences. I will defend my thesis on March 13 at the acadamy building in Utrecht.
+I currently hold a post-doctoral position at the department of Methodology & Statistics of Utrecht University in the Netherlands. From December until April I'm consulting as a scientific project manager for [Rick Grobbee](https://www.umcutrecht.nl/en/Research/Strategic-themes/Circulatory-Health/Prof-dr-Rick-Grobbee) at the University Medical Center Utrecht. My research interests lie primarily in the area of Bayesian statistics. My docteral thesis, under the supervision of [Rens van de Schoot](https://www.rensvandeschoot.com/), concerned the use of Bayesian statistics, expert elicitation and information theory in the social sciences. I defended my thesis on March 13 at the acadamy building in Utrecht.
