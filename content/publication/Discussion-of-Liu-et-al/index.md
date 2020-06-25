@@ -22,7 +22,7 @@ tags:
 title: Standard Errors, Priors, and Bridge Sampling. A Discussion of Liu et al.
 url_code: ""
 url_dataset: ""
-url_pdf: https://doi.org/10.1016/j.jkss.2019.07.004
+url_pdf: https://github.com/VeenDuco/website/tree/master/static/docs/papers/post_print_Standard_Errors_Priors_Bridge_Sampling.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""

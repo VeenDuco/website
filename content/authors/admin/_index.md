@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I currently hold a post-doctoral position at the department of Methodology & Statistics of Utrecht University in the Netherlands. From December until April I'm consulting as a scientific project manager for [Rick Grobbee](https://www.umcutrecht.nl/en/Research/Strategic-themes/Circulatory-Health/Prof-dr-Rick-Grobbee) at the University Medical Center Utrecht. My research interests lie primarily in the area of Bayesian statistics. My docteral thesis, under the supervision of [Rens van de Schoot](https://www.rensvandeschoot.com/), concerned the use of Bayesian statistics, expert elicitation and information theory in the social sciences. I defended my thesis on March 13 at the acadamy building in Utrecht.
+bio: I currently hold a post-doctoral position at the department of Methodology & Statistics of Utrecht University in the Netherlands. From December until July I'm consulting as a scientific project manager for [Rick Grobbee](https://www.umcutrecht.nl/en/Research/Strategic-themes/Circulatory-Health/Prof-dr-Rick-Grobbee) at the University Medical Center Utrecht. My research interests lie primarily in the area of Bayesian statistics. My docteral thesis, under the supervision of [Rens van de Schoot](https://www.rensvandeschoot.com/), concerned the use of Bayesian statistics, expert elicitation and information theory in the social sciences. I defended my thesis on March 13 at the acadamy building in Utrecht. In June I joined the [Stan](https://mc-stan.org/) development team for my work on shinystan. 
 
 education:
   courses:
@@ -18,6 +18,7 @@ email: ""
 interests:
 - Bayesian Statistics
 - Expert Elicitation
+- Bayesian workflow
 - Randomized Repsonse Methodology
 name: Duco Veen
 organizations:
@@ -26,6 +27,9 @@ organizations:
 - name:     
 - name: scientific project manager
 - name: University Medical Center Utrecht
+- name: 
+- name: member
+- name: Stan Development Team
 social:
 - icon: envelope
   icon_pack: fas
@@ -48,4 +52,4 @@ user_groups:
 - Visitors
 ---
 
-I currently hold a post-doctoral position at the department of Methodology & Statistics of Utrecht University in the Netherlands. From December until April I'm consulting as a scientific project manager for [Rick Grobbee](https://www.umcutrecht.nl/en/Research/Strategic-themes/Circulatory-Health/Prof-dr-Rick-Grobbee) at the University Medical Center Utrecht. My research interests lie primarily in the area of Bayesian statistics. My docteral thesis, under the supervision of [Rens van de Schoot](https://www.rensvandeschoot.com/), concerned the use of Bayesian statistics, expert elicitation and information theory in the social sciences. I defended my thesis on March 13 at the acadamy building in Utrecht.
+I currently hold a post-doctoral position at the department of Methodology & Statistics of Utrecht University in the Netherlands. From December until July I'm consulting as a scientific project manager for [Rick Grobbee](https://www.umcutrecht.nl/en/Research/Strategic-themes/Circulatory-Health/Prof-dr-Rick-Grobbee) at the University Medical Center Utrecht. My research interests lie primarily in the area of Bayesian statistics. My docteral thesis, under the supervision of [Rens van de Schoot](https://www.rensvandeschoot.com/), concerned the use of Bayesian statistics, expert elicitation and information theory in the social sciences. I defended my thesis on March 13 at the acadamy building in Utrecht. In June I joined the [Stan](https://mc-stan.org/) development team for my work on shinystan. 
