@@ -3,8 +3,98 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/6/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bayesian-statistics/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2020-04-01T08:00:00+00:00</lastmod>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/elicitation/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/expert_elicitation_lgm/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/expert-judgment/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/expert-knowledge/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/five-step-method/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/kullback-leibler-divergence/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/marthe-egberts/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nancy-van-loey/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/prior/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/prior-data-disagreement/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rens-van-de-schoot/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,47 +113,12 @@
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2020-02-13T00:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/6/</loc>
-    <lastmod>2020-02-13T00:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/tutorial-wambs/</loc>
     <lastmod>2020-02-13T00:01:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-02-13T00:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/bayesian-statistics/</loc>
-    <lastmod>2020-02-13T00:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/laurent-smeets/</loc>
-    <lastmod>2020-02-13T00:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-02-13T00:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-02-13T00:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/rens-van-de-schoot/</loc>
     <lastmod>2020-02-13T00:01:00+00:00</lastmod>
   </url>
   
@@ -75,21 +130,6 @@
   <url>
     <loc>/authors/sonja-d.-winter/</loc>
     <lastmod>2020-02-13T00:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-02-13T00:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/marthe-egberts/</loc>
-    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/expert_elicitation_lgm/</loc>
-    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -283,17 +323,7 @@
   </url>
   
   <url>
-    <loc>/tags/kullback-leibler-divergence/</loc>
-    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/naomi-schalken/</loc>
-    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/prior-data-disagreement/</loc>
     <lastmod>2018-08-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -318,32 +348,7 @@
   </url>
   
   <url>
-    <loc>/tags/elicitation/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/expert-judgment/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/expert-knowledge/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/five-step-method/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/marielle-zondervan-zwijnenburg/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/prior/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
   </url>
   
