@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I currently hold a post-doctoral position at the department of Methodology & Statistics of Utrecht University in the Netherlands. From December until July I'm consulting as a scientific project manager for [Rick Grobbee](https://www.umcutrecht.nl/en/Research/Strategic-themes/Circulatory-Health/Prof-dr-Rick-Grobbee) at the University Medical Center Utrecht. My research interests lie primarily in the area of Bayesian statistics. My docteral thesis, under the supervision of [Rens van de Schoot](https://www.rensvandeschoot.com/), concerned the use of Bayesian statistics, expert elicitation and information theory in the social sciences. I defended my thesis on March 13 at the acadamy building in Utrecht. In June I joined the [Stan](https://mc-stan.org/) development team for my work on shinystan. 
+bio: I currently hold an Assistant Professor position at the [department of Global Health](https://www.globalhealth.eu/) situated at the [Julius Center for Health Sciences and Primary Care](https://juliuscentrum.umcutrecht.nl/en/) of the University Medical Center Utrecht. In that capacity I'm involved in the [COVID-RED](http://www.covid-red.eu/), [AI for Health](https://ewuu.nl/en/research/artificial-intelligence/), and [Trials@Home](https://trialsathome.com/) projects. Besides that I'm appointed as Extraordinary Professor at the [Optentia Research Focus Area](https://www.optentia.co.za/) of North-West University, South Africa. I work as Data Scientist for one day a week at [Julius Clinical](https://www.juliusclinical.com/), a Contract Research Organization. I'm involved in the Stan project. Stan is "freedom-respecting, open-source software for facilitating statistical inference at the frontiers of applied statistics.". I work on the development of [ShinyStan](https://github.com/stan-dev/shinystan/tree/v3-alpha) and have recently been elected as member of the [Stan Governing Body](https://mc-stan.org/about/). 
 
 education:
   courses:
@@ -22,14 +22,14 @@ interests:
 - Randomized Repsonse Methodology
 name: Duco Veen
 organizations:
-- name: postdoc
-- name: Utrecht University
-- name:     
-- name: scientific project manager
+- name: Assistant Professor
 - name: University Medical Center Utrecht
-- name: 
-- name: member
-- name: Stan Development Team
+- name:     
+- name: Extraordinary Professor
+- name: North-West University
+- name:
+- name: Data Scientist 
+- name: Julius Clinical
 social:
 - icon: envelope
   icon_pack: fas
@@ -52,4 +52,4 @@ user_groups:
 - Visitors
 ---
 
-I currently hold a post-doctoral position at the department of Methodology & Statistics of Utrecht University in the Netherlands. From December until July I'm consulting as a scientific project manager for [Rick Grobbee](https://www.umcutrecht.nl/en/Research/Strategic-themes/Circulatory-Health/Prof-dr-Rick-Grobbee) at the University Medical Center Utrecht. My research interests lie primarily in the area of Bayesian statistics. My docteral thesis, under the supervision of [Rens van de Schoot](https://www.rensvandeschoot.com/), concerned the use of Bayesian statistics, expert elicitation and information theory in the social sciences. I defended my thesis on March 13 at the acadamy building in Utrecht. In June I joined the [Stan](https://mc-stan.org/) development team for my work on shinystan. 
+I currently hold an Assistant Professor position at the [department of Global Health](https://www.globalhealth.eu/) situated at the [Julius Center for Health Sciences and Primary Care](https://juliuscentrum.umcutrecht.nl/en/) of the University Medical Center Utrecht. In that capacity I'm involved in the [COVID-RED](http://www.covid-red.eu/), [AI for Health](https://ewuu.nl/en/research/artificial-intelligence/), and [Trials@Home](https://trialsathome.com/) projects. Besides that I'm appointed as Extraordinary Professor at the [Optentia Research Focus Area](https://www.optentia.co.za/) of North-West University, South Africa. I work as Data Scientist for one day a week at [Julius Clinical](https://www.juliusclinical.com/), a Contract Research Organization. I'm involved in the Stan project. Stan is "freedom-respecting, open-source software for facilitating statistical inference at the frontiers of applied statistics.". I work on the development of [ShinyStan](https://github.com/stan-dev/shinystan/tree/v3-alpha) and have recently been elected as member of the [Stan Governing Body](https://mc-stan.org/about/). 

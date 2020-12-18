@@ -2,35 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>expert judgement | Duco Veen</title>
-    <link>/tags/expert-judgement/</link>
-      <atom:link href="/tags/expert-judgement/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.ducoveen.com/tags/expert-judgement/</link>
+      <atom:link href="https://www.ducoveen.com/tags/expert-judgement/index.xml" rel="self" type="application/rss+xml" />
     <description>expert judgement</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.ducoveen.com/img/icon-192.png</url>
       <title>expert judgement</title>
-      <link>/tags/expert-judgement/</link>
+      <link>https://www.ducoveen.com/tags/expert-judgement/</link>
     </image>
     
     <item>
       <title>Using the Data Agreement Criterion to Rank Experts&#39; Beliefs</title>
-      <link>/publication/dac/</link>
+      <link>https://www.ducoveen.com/publication/dac/</link>
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/dac/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    #Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
---&gt;
-
-&lt;!--Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+      <guid>https://www.ducoveen.com/publication/dac/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     

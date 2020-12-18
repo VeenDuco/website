@@ -2,35 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elise de Bree | Duco Veen</title>
-    <link>/authors/elise-de-bree/</link>
-      <atom:link href="/authors/elise-de-bree/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.ducoveen.com/authors/elise-de-bree/</link>
+      <atom:link href="https://www.ducoveen.com/authors/elise-de-bree/index.xml" rel="self" type="application/rss+xml" />
     <description>Elise de Bree</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.ducoveen.com/img/icon-192.png</url>
       <title>Elise de Bree</title>
-      <link>/authors/elise-de-bree/</link>
+      <link>https://www.ducoveen.com/authors/elise-de-bree/</link>
     </image>
     
     <item>
       <title>A step forward. Bayesian hierarchical modelling as a tool in assessment of individual discrimination performance</title>
-      <link>/publication/a-step-forward/</link>
+      <link>https://www.ducoveen.com/publication/a-step-forward/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/a-step-forward/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    #Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
---&gt;
-
-&lt;!--Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+      <guid>https://www.ducoveen.com/publication/a-step-forward/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     

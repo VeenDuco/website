@@ -2,105 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Duco Veen</title>
-    <link>/talk/</link>
-      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.ducoveen.com/talk/</link>
+      <atom:link href="https://www.ducoveen.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 11:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.ducoveen.com/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <link>https://www.ducoveen.com/talk/</link>
     </image>
     
     <item>
       <title>Introduction to R</title>
-      <link>/talk/nwu_intror/</link>
+      <link>https://www.ducoveen.com/talk/nwu_intror/</link>
       <pubDate>Wed, 08 Jul 2020 11:00:00 +0000</pubDate>
-      <guid>/talk/nwu_intror/</guid>
-      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
---&gt;
+      <guid>https://www.ducoveen.com/talk/nwu_intror/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
     <item>
       <title>On Expert Elicitation Experiences</title>
-      <link>/talk/aalto_via_zoom/</link>
+      <link>https://www.ducoveen.com/talk/aalto_via_zoom/</link>
       <pubDate>Wed, 01 Apr 2020 08:00:00 +0000</pubDate>
-      <guid>/talk/aalto_via_zoom/</guid>
-      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
---&gt;
+      <guid>https://www.ducoveen.com/talk/aalto_via_zoom/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
     <item>
       <title>Dissertation Defense</title>
-      <link>/talk/dissertation_defense/</link>
+      <link>https://www.ducoveen.com/talk/dissertation_defense/</link>
       <pubDate>Fri, 13 Mar 2020 10:30:00 +0000</pubDate>
-      <guid>/talk/dissertation_defense/</guid>
-      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
---&gt;
+      <guid>https://www.ducoveen.com/talk/dissertation_defense/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
     <item>
       <title>On shinystan 3.0</title>
-      <link>/talk/shinystan/</link>
+      <link>https://www.ducoveen.com/talk/shinystan/</link>
       <pubDate>Thu, 31 Oct 2019 18:50:00 +0000</pubDate>
-      <guid>/talk/shinystan/</guid>
-      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
---&gt;
+      <guid>https://www.ducoveen.com/talk/shinystan/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
