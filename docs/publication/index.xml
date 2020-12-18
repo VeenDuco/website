@@ -5,12 +5,24 @@
     <link>https://www.ducoveen.com/publication/</link>
       <atom:link href="https://www.ducoveen.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Aug 2020 00:01:00 +0000</lastBuildDate>
     <image>
       <url>https://www.ducoveen.com/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://www.ducoveen.com/publication/</link>
     </image>
+    
+    <item>
+      <title>The Data Representativeness Criterion. Predicting the Performance of Supervised Classification Based on Data Set Similarity.</title>
+      <link>https://www.ducoveen.com/publication/drc/</link>
+      <pubDate>Tue, 11 Aug 2020 00:01:00 +0000</pubDate>
+      <guid>https://www.ducoveen.com/publication/drc/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>Expert Elicitation for Latent Growth Curve Models. The Case of Posttraumatic Stress Symptoms Development in Children With Burn Injuries</title>

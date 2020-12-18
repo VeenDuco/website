@@ -86,15 +86,14 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "ducoveen@gmail.com"
-phone = "030 253 4547"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Padualaan 14, Room C1.08", city = "Utrecht", postcode = "3584CH", country = "The Netherlands", country_code = "NL"}
+address = {street = "Working from home", city = "Utrecht", country = "The Netherlands", country_code = "NL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.085049", longitude = "5.170681"}
+coordinates = {latitude = "52.09065", longitude = "5.12131"}
 
 # Directions for visitors to locate you.
 #directions = ""
