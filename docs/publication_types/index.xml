@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Duco Veen</title>
-    <link>https://www.ducoveen.com/publication_types/</link>
-      <atom:link href="https://www.ducoveen.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/</link>
+      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.ducoveen.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Publication_types</title>
-      <link>https://www.ducoveen.com/publication_types/</link>
+      <link>/publication_types/</link>
     </image>
     
   </channel>

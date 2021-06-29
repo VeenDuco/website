@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bayes factor | Duco Veen</title>
-    <link>https://www.ducoveen.com/tags/bayes-factor/</link>
-      <atom:link href="https://www.ducoveen.com/tags/bayes-factor/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/bayes-factor/</link>
+      <atom:link href="/tags/bayes-factor/index.xml" rel="self" type="application/rss+xml" />
     <description>Bayes factor</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.ducoveen.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Bayes factor</title>
-      <link>https://www.ducoveen.com/tags/bayes-factor/</link>
+      <link>/tags/bayes-factor/</link>
     </image>
     
     <item>
       <title>Using the Data Agreement Criterion to Rank Experts&#39; Beliefs</title>
-      <link>https://www.ducoveen.com/publication/dac/</link>
+      <link>/publication/dac/</link>
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.ducoveen.com/publication/dac/</guid>
+      <guid>/publication/dac/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;

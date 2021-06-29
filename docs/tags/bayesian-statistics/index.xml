@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bayesian Statistics | Duco Veen</title>
-    <link>https://www.ducoveen.com/tags/bayesian-statistics/</link>
-      <atom:link href="https://www.ducoveen.com/tags/bayesian-statistics/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/bayesian-statistics/</link>
+      <atom:link href="/tags/bayesian-statistics/index.xml" rel="self" type="application/rss+xml" />
     <description>Bayesian Statistics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.ducoveen.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Bayesian Statistics</title>
-      <link>https://www.ducoveen.com/tags/bayesian-statistics/</link>
+      <link>/tags/bayesian-statistics/</link>
     </image>
     
     <item>
       <title>Expert Elicitation for Latent Growth Curve Models. The Case of Posttraumatic Stress Symptoms Development in Children With Burn Injuries</title>
-      <link>https://www.ducoveen.com/publication/expert_elicitation_lgm/</link>
+      <link>/publication/expert_elicitation_lgm/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.ducoveen.com/publication/expert_elicitation_lgm/</guid>
+      <guid>/publication/expert_elicitation_lgm/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>A Tutorial on Using The Wambs Checklist to Avoid The Misuse of Bayesian Statistics</title>
-      <link>https://www.ducoveen.com/publication/tutorial-wambs/</link>
+      <link>/publication/tutorial-wambs/</link>
       <pubDate>Thu, 13 Feb 2020 00:01:00 +0000</pubDate>
-      <guid>https://www.ducoveen.com/publication/tutorial-wambs/</guid>
+      <guid>/publication/tutorial-wambs/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -38,9 +38,9 @@
     
     <item>
       <title>The Importance of Collaboration in Bayesian Analyses with Small Samples</title>
-      <link>https://www.ducoveen.com/publication/importance-collaboration/</link>
+      <link>/publication/importance-collaboration/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.ducoveen.com/publication/importance-collaboration/</guid>
+      <guid>/publication/importance-collaboration/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -50,9 +50,9 @@
     
     <item>
       <title>Proposal for a Five-Step Method to Elicit Expert Judgment</title>
-      <link>https://www.ducoveen.com/publication/five-step-method/</link>
+      <link>/publication/five-step-method/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.ducoveen.com/publication/five-step-method/</guid>
+      <guid>/publication/five-step-method/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
