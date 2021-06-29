@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marthe Egberts | Duco Veen</title>
-    <link>/authors/marthe-egberts/</link>
-      <atom:link href="/authors/marthe-egberts/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.ducoveen.com/authors/marthe-egberts/</link>
+      <atom:link href="https://www.ducoveen.com/authors/marthe-egberts/index.xml" rel="self" type="application/rss+xml" />
     <description>Marthe Egberts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.ducoveen.com/img/icon-192.png</url>
       <title>Marthe Egberts</title>
-      <link>/authors/marthe-egberts/</link>
+      <link>https://www.ducoveen.com/authors/marthe-egberts/</link>
     </image>
     
     <item>
       <title>Expert Elicitation for Latent Growth Curve Models. The Case of Posttraumatic Stress Symptoms Development in Children With Burn Injuries</title>
-      <link>/publication/expert_elicitation_lgm/</link>
+      <link>https://www.ducoveen.com/publication/expert_elicitation_lgm/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/expert_elicitation_lgm/</guid>
+      <guid>https://www.ducoveen.com/publication/expert_elicitation_lgm/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>The Importance of Collaboration in Bayesian Analyses with Small Samples</title>
-      <link>/publication/importance-collaboration/</link>
+      <link>https://www.ducoveen.com/publication/importance-collaboration/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/importance-collaboration/</guid>
+      <guid>https://www.ducoveen.com/publication/importance-collaboration/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;

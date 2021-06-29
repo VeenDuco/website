@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kullback-Leibler divergence | Duco Veen</title>
-    <link>/tags/kullback-leibler-divergence/</link>
-      <atom:link href="/tags/kullback-leibler-divergence/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.ducoveen.com/tags/kullback-leibler-divergence/</link>
+      <atom:link href="https://www.ducoveen.com/tags/kullback-leibler-divergence/index.xml" rel="self" type="application/rss+xml" />
     <description>Kullback-Leibler divergence</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.ducoveen.com/img/icon-192.png</url>
       <title>Kullback-Leibler divergence</title>
-      <link>/tags/kullback-leibler-divergence/</link>
+      <link>https://www.ducoveen.com/tags/kullback-leibler-divergence/</link>
     </image>
     
     <item>
       <title>Expert Elicitation for Latent Growth Curve Models. The Case of Posttraumatic Stress Symptoms Development in Children With Burn Injuries</title>
-      <link>/publication/expert_elicitation_lgm/</link>
+      <link>https://www.ducoveen.com/publication/expert_elicitation_lgm/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/expert_elicitation_lgm/</guid>
+      <guid>https://www.ducoveen.com/publication/expert_elicitation_lgm/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>Using the Data Agreement Criterion to Rank Experts&#39; Beliefs</title>
-      <link>/publication/dac/</link>
+      <link>https://www.ducoveen.com/publication/dac/</link>
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/dac/</guid>
+      <guid>https://www.ducoveen.com/publication/dac/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;

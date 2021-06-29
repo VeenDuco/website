@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adrienne M. Mendrik | Duco Veen</title>
-    <link>/authors/adrienne-m.-mendrik/</link>
-      <atom:link href="/authors/adrienne-m.-mendrik/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.ducoveen.com/authors/adrienne-m.-mendrik/</link>
+      <atom:link href="https://www.ducoveen.com/authors/adrienne-m.-mendrik/index.xml" rel="self" type="application/rss+xml" />
     <description>Adrienne M. Mendrik</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Aug 2020 00:01:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.ducoveen.com/img/icon-192.png</url>
       <title>Adrienne M. Mendrik</title>
-      <link>/authors/adrienne-m.-mendrik/</link>
+      <link>https://www.ducoveen.com/authors/adrienne-m.-mendrik/</link>
     </image>
     
     <item>
       <title>The Data Representativeness Criterion. Predicting the Performance of Supervised Classification Based on Data Set Similarity.</title>
-      <link>/publication/drc/</link>
+      <link>https://www.ducoveen.com/publication/drc/</link>
       <pubDate>Tue, 11 Aug 2020 00:01:00 +0000</pubDate>
-      <guid>/publication/drc/</guid>
+      <guid>https://www.ducoveen.com/publication/drc/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
