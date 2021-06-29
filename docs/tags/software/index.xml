@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software | Duco Veen</title>
+    <link>https://www.ducoveen.com/tags/software/</link>
+      <atom:link href="https://www.ducoveen.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>software</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.ducoveen.com/img/icon-192.png</url>
+      <title>software</title>
+      <link>https://www.ducoveen.com/tags/software/</link>
+    </image>
+    
+    <item>
+      <title>Generalized Linear Randomized Response Modeling using GLMMRR</title>
+      <link>https://www.ducoveen.com/publication/2021_glmmrr_software/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.ducoveen.com/publication/2021_glmmrr_software/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Randomized response (RR) designs are used to collect response data about sensitive behaviors (e.g., criminal behavior, sexual desires). The modeling of RR data is more complex, since it requires a description of the RR process. For the class of generalized linear mixed models (GLMMs), the RR process can be represented by an adjusted link function, which relates the expected RR to the linear predictor, for most common RR designs. The package GLMMRR includes modified link functions for four different cumulative distributions (i.e., logistic, cumulative normal, gumbel, cauchy) for GLMs and GLMMs, where the package lme4 facilitates ML and REML estimation. The mixed modeling framework in GLMMRR can be used to jointly analyse data collected under different designs (e.g., dual questioning, multilevel, mixed mode, repeated measurements designs, multiple-group designs). The well-known features of the GLM and GLMM (package lme4) software are remained, while adding new model-fit tests, residual analyses, and plot functions to give support to a profound RR data analysis. Data of Hoglinger and Jann (2018) and Hoglinger, Jann, and Diekmann (2014) is used
+to illustrate the methodology and software.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
