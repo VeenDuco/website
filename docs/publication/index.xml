@@ -5,12 +5,25 @@
     <link>https://www.ducoveen.com/publication/</link>
       <atom:link href="https://www.ducoveen.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.ducoveen.com/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://www.ducoveen.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Bayesian statistics and modelling</title>
+      <link>https://www.ducoveen.com/publication/2021_bayesian_statistics_and_modelling/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.ducoveen.com/publication/2021_bayesian_statistics_and_modelling/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Bayesian statistics is an approach to data analysis based on Bayes&#39; theorem, where available knowledge about parameters in a statistical model is updated with the information in observed data. The background knowledge is expressed as a prior distribution and combined with observational data in the form of a likelihood function to determine the posterior distribution. The posterior can also be used for making predictions about future events. This Primer describes the stages involved in Bayesian analysis, from specifying the prior and data models to deriving inference, model checking and refinement. We discuss the importance of prior and posterior predictive checking, selecting a proper technique for sampling from a posterior distribution, variational inference and variable selection. Examples of successful applications of Bayesian analysis across various research fields are provided, including in social sciences, ecology, genetics, medicine and more. We propose strategies for reproducibility and reporting standards, outlining an updated WAMBS (when to Worry and how to Avoid the Misuse of Bayesian Statistics) checklist. Finally, we outline the impact of Bayesian analysis on artificial intelligence, a major goal in the next decade.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Speech discrimination in infants at family risk of dyslexia. Group and individual-based analyses</title>

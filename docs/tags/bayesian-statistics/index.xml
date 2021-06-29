@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bayesian statistics | Duco Veen</title>
+    <title>Bayesian Statistics | Duco Veen</title>
     <link>https://www.ducoveen.com/tags/bayesian-statistics/</link>
       <atom:link href="https://www.ducoveen.com/tags/bayesian-statistics/index.xml" rel="self" type="application/rss+xml" />
-    <description>Bayesian statistics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <description>Bayesian Statistics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.ducoveen.com/img/icon-192.png</url>
-      <title>Bayesian statistics</title>
+      <title>Bayesian Statistics</title>
       <link>https://www.ducoveen.com/tags/bayesian-statistics/</link>
     </image>
+    
+    <item>
+      <title>Bayesian statistics and modelling</title>
+      <link>https://www.ducoveen.com/publication/2021_bayesian_statistics_and_modelling/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.ducoveen.com/publication/2021_bayesian_statistics_and_modelling/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Bayesian statistics is an approach to data analysis based on Bayes&#39; theorem, where available knowledge about parameters in a statistical model is updated with the information in observed data. The background knowledge is expressed as a prior distribution and combined with observational data in the form of a likelihood function to determine the posterior distribution. The posterior can also be used for making predictions about future events. This Primer describes the stages involved in Bayesian analysis, from specifying the prior and data models to deriving inference, model checking and refinement. We discuss the importance of prior and posterior predictive checking, selecting a proper technique for sampling from a posterior distribution, variational inference and variable selection. Examples of successful applications of Bayesian analysis across various research fields are provided, including in social sciences, ecology, genetics, medicine and more. We propose strategies for reproducibility and reporting standards, outlining an updated WAMBS (when to Worry and how to Avoid the Misuse of Bayesian Statistics) checklist. Finally, we outline the impact of Bayesian analysis on artificial intelligence, a major goal in the next decade.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Speech discrimination in infants at family risk of dyslexia. Group and individual-based analyses</title>
