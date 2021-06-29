@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eskild K. Fredslund | Duco Veen</title>
+    <link>https://www.ducoveen.com/authors/eskild-k.-fredslund/</link>
+      <atom:link href="https://www.ducoveen.com/authors/eskild-k.-fredslund/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eskild K. Fredslund</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.ducoveen.com/img/icon-192.png</url>
+      <title>Eskild K. Fredslund</title>
+      <link>https://www.ducoveen.com/authors/eskild-k.-fredslund/</link>
+    </image>
+    
+    <item>
+      <title>A prospective, randomized, single-blinded, crossover trial to investigate the effect of a wearable device in addition to a daily symptom diary for the remote early detection of SARS-CoV-2 infections (COVID-RED)</title>
+      <link>https://www.ducoveen.com/publication/2021_covid_red_protocol/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.ducoveen.com/publication/2021_covid_red_protocol/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;It is currently thought that most—but not all—individuals infected with SARS-CoV-2 develop symptoms, but that the infectious period starts on average two days before the first overt symptoms appear. It is estimated that pre- and asymptomatic individuals are responsible for more than half of all transmissions. By detecting infected individuals before they have overt symptoms, wearable devices could potentially and significantly reduce the proportion of transmissions by pre-symptomatic individuals. Using laboratory-confirmed SARS-CoV-2 infections (detected via serology tests [to determine if there are antibodies against the SARS-CoV-2 in the blood] or SARS-CoV-2 infection tests such as polymerase chain reaction [PCR] or antigen tests) as the gold standard, we will determine the sensitivity, specificity, positive predictive value (PPV) and negative predictive value (NPV) for the following two algorithms to detect first time SARS-CoV-2 infection including early or asymptomatic infection. The algorithm using Ava bracelet data when coupled with self-reported Daily Symptom Diary data (Wearable + Symptom Data Algo; experimental condition) the algorithm using self-reported Daily Symptom Diary data alone (Symptom Only Algo; control condition) In addition, we will determine which of the two algorithms has superior performance characteristics for detecting SARS-CoV-2 infection including early or asymptomatic infection as confirmed by SARS-CoV-2 virus testing.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
