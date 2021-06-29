@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Individual analysis | Duco Veen</title>
-    <link>https://www.ducoveen.com/tags/individual-analysis/</link>
-      <atom:link href="https://www.ducoveen.com/tags/individual-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/individual-analysis/</link>
+      <atom:link href="/tags/individual-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Individual analysis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.ducoveen.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Individual analysis</title>
-      <link>https://www.ducoveen.com/tags/individual-analysis/</link>
+      <link>/tags/individual-analysis/</link>
     </image>
     
     <item>
       <title>Speech discrimination in infants at family risk of dyslexia. Group and individual-based analyses</title>
-      <link>https://www.ducoveen.com/publication/2021_speech-discrimination/</link>
+      <link>/publication/2021_speech-discrimination/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.ducoveen.com/publication/2021_speech-discrimination/</guid>
+      <guid>/publication/2021_speech-discrimination/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>A step forward. Bayesian hierarchical modelling as a tool in assessment of individual discrimination performance</title>
-      <link>https://www.ducoveen.com/publication/a-step-forward/</link>
+      <link>/publication/a-step-forward/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.ducoveen.com/publication/a-step-forward/</guid>
+      <guid>/publication/a-step-forward/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;

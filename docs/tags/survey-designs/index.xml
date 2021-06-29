@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>survey designs | Duco Veen</title>
-    <link>https://www.ducoveen.com/tags/survey-designs/</link>
-      <atom:link href="https://www.ducoveen.com/tags/survey-designs/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/survey-designs/</link>
+      <atom:link href="/tags/survey-designs/index.xml" rel="self" type="application/rss+xml" />
     <description>survey designs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.ducoveen.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>survey designs</title>
-      <link>https://www.ducoveen.com/tags/survey-designs/</link>
+      <link>/tags/survey-designs/</link>
     </image>
     
     <item>
       <title>Generalized Linear Mixed Models for Randomized Responses</title>
-      <link>https://www.ducoveen.com/publication/glmmrr/</link>
+      <link>/publication/glmmrr/</link>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.ducoveen.com/publication/glmmrr/</guid>
+      <guid>/publication/glmmrr/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;

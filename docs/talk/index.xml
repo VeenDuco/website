@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Duco Veen</title>
-    <link>https://www.ducoveen.com/talk/</link>
-      <atom:link href="https://www.ducoveen.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 11:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.ducoveen.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://www.ducoveen.com/talk/</link>
+      <link>/talk/</link>
     </image>
     
     <item>
       <title>Introduction to R</title>
-      <link>https://www.ducoveen.com/talk/nwu_intror/</link>
+      <link>/talk/nwu_intror/</link>
       <pubDate>Wed, 08 Jul 2020 11:00:00 +0000</pubDate>
-      <guid>https://www.ducoveen.com/talk/nwu_intror/</guid>
+      <guid>/talk/nwu_intror/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;blockquote&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>On Expert Elicitation Experiences</title>
-      <link>https://www.ducoveen.com/talk/aalto_via_zoom/</link>
+      <link>/talk/aalto_via_zoom/</link>
       <pubDate>Wed, 01 Apr 2020 08:00:00 +0000</pubDate>
-      <guid>https://www.ducoveen.com/talk/aalto_via_zoom/</guid>
+      <guid>/talk/aalto_via_zoom/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;blockquote&gt;
@@ -38,9 +38,9 @@
     
     <item>
       <title>Dissertation Defense</title>
-      <link>https://www.ducoveen.com/talk/dissertation_defense/</link>
+      <link>/talk/dissertation_defense/</link>
       <pubDate>Fri, 13 Mar 2020 10:30:00 +0000</pubDate>
-      <guid>https://www.ducoveen.com/talk/dissertation_defense/</guid>
+      <guid>/talk/dissertation_defense/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;blockquote&gt;
@@ -50,9 +50,9 @@
     
     <item>
       <title>On shinystan 3.0</title>
-      <link>https://www.ducoveen.com/talk/shinystan/</link>
+      <link>/talk/shinystan/</link>
       <pubDate>Thu, 31 Oct 2019 18:50:00 +0000</pubDate>
-      <guid>https://www.ducoveen.com/talk/shinystan/</guid>
+      <guid>/talk/shinystan/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;blockquote&gt;

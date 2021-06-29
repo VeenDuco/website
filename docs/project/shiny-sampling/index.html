@@ -16,14 +16,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-3V7JVZYDMM"></script>
-<script>
+<script type="application/javascript">
 var doNotTrack = false;
 if (!doNotTrack) {
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-	gtag('config', 'G-3V7JVZYDMM', { 'anonymize_ip': false });
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'G-3V7JVZYDMM', 'auto');
+	
+	ga('send', 'pageview');
 }
 </script>
 
@@ -66,7 +68,7 @@ if (!doNotTrack) {
   <meta name="description" content="This app shows sampling from a bivariate distribution under different sample sizes and true correlations. The application also shows the history or sampling distribution for both the correlation statistic and its p-value if multiple samples from the same population are drawn. This application was developed for educational purposes.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://www.ducoveen.com/project/shiny-sampling/">
+  <link rel="alternate" hreflang="en-us" href="/project/shiny-sampling/">
 
   
 
@@ -135,7 +137,7 @@ if (!doNotTrack) {
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://www.ducoveen.com/project/shiny-sampling/">
+  <link rel="canonical" href="/project/shiny-sampling/">
 
   
   
@@ -147,10 +149,10 @@ if (!doNotTrack) {
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Duco Veen">
-  <meta property="og:url" content="https://www.ducoveen.com/project/shiny-sampling/">
+  <meta property="og:url" content="/project/shiny-sampling/">
   <meta property="og:title" content="Play with sampling distribution of correlation | Duco Veen">
-  <meta property="og:description" content="This app shows sampling from a bivariate distribution under different sample sizes and true correlations. The application also shows the history or sampling distribution for both the correlation statistic and its p-value if multiple samples from the same population are drawn. This application was developed for educational purposes."><meta property="og:image" content="https://www.ducoveen.com/project/shiny-sampling/featured.jpg">
-  <meta property="twitter:image" content="https://www.ducoveen.com/project/shiny-sampling/featured.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="This app shows sampling from a bivariate distribution under different sample sizes and true correlations. The application also shows the history or sampling distribution for both the correlation statistic and its p-value if multiple samples from the same population are drawn. This application was developed for educational purposes."><meta property="og:image" content="/project/shiny-sampling/featured.jpg">
+  <meta property="twitter:image" content="/project/shiny-sampling/featured.jpg"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2017-01-01T00:00:00&#43;00:00">
@@ -179,12 +181,12 @@ if (!doNotTrack) {
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://www.ducoveen.com/project/shiny-sampling/"
+    "@id": "/project/shiny-sampling/"
   },
   "headline": "Play with sampling distribution of correlation",
   
   "image": [
-    "https://www.ducoveen.com/project/shiny-sampling/featured.jpg"
+    "/project/shiny-sampling/featured.jpg"
   ],
   
   "datePublished": "2017-01-01T00:00:00Z",
@@ -200,7 +202,7 @@ if (!doNotTrack) {
     "name": "Duco Veen",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://www.ducoveen.com/img/icon-512.png"
+      "url": "/img/icon-512.png"
     }
   },
   "description": "This app shows sampling from a bivariate distribution under different sample sizes and true correlations. The application also shows the history or sampling distribution for both the correlation statistic and its p-value if multiple samples from the same population are drawn. This application was developed for educational purposes."
@@ -266,6 +268,11 @@ if (!doNotTrack) {
     
       <a class="navbar-brand" href="/">Duco Veen</a>
       
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
 
     
     <div class="collapse navbar-collapse" id="navbar">
@@ -273,6 +280,122 @@ if (!doNotTrack) {
       
       
       <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Upcoming Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Programs</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
         
 
       
@@ -461,7 +584,7 @@ if (!doNotTrack) {
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://www.ducoveen.com/project/shiny-sampling/&amp;text=Play%20with%20sampling%20distribution%20of%20correlation" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/project/shiny-sampling/&amp;text=Play%20with%20sampling%20distribution%20of%20correlation" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -474,7 +597,7 @@ if (!doNotTrack) {
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://www.ducoveen.com/project/shiny-sampling/&amp;t=Play%20with%20sampling%20distribution%20of%20correlation" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/project/shiny-sampling/&amp;t=Play%20with%20sampling%20distribution%20of%20correlation" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -487,7 +610,7 @@ if (!doNotTrack) {
       
       
       <li>
-        <a href="mailto:?subject=Play%20with%20sampling%20distribution%20of%20correlation&amp;body=https://www.ducoveen.com/project/shiny-sampling/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Play%20with%20sampling%20distribution%20of%20correlation&amp;body=/project/shiny-sampling/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -500,7 +623,7 @@ if (!doNotTrack) {
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://www.ducoveen.com/project/shiny-sampling/&amp;title=Play%20with%20sampling%20distribution%20of%20correlation" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/project/shiny-sampling/&amp;title=Play%20with%20sampling%20distribution%20of%20correlation" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -513,7 +636,7 @@ if (!doNotTrack) {
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Play%20with%20sampling%20distribution%20of%20correlation%20https://www.ducoveen.com/project/shiny-sampling/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Play%20with%20sampling%20distribution%20of%20correlation%20/project/shiny-sampling/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -526,7 +649,7 @@ if (!doNotTrack) {
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://www.ducoveen.com/project/shiny-sampling/&amp;title=Play%20with%20sampling%20distribution%20of%20correlation" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/project/shiny-sampling/&amp;title=Play%20with%20sampling%20distribution%20of%20correlation" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -565,7 +688,7 @@ if (!doNotTrack) {
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="https://www.ducoveen.com/">Duco Veen</a></h5>
+      <h5 class="card-title"><a href="/">Duco Veen</a></h5>
       
       <p class="card-text">I currently hold an Assistant Professor position at the <a href="https://www.globalhealth.eu/">department of Global Health</a> situated at the <a href="https://juliuscentrum.umcutrecht.nl/en/">Julius Center for Health Sciences and Primary Care</a> of the University Medical Center Utrecht. In that capacity I&rsquo;m involved in the <a href="http://www.covid-red.eu/">COVID-RED</a>, <a href="https://ewuu.nl/en/research/artificial-intelligence/">AI for Health</a>, and <a href="https://trialsathome.com/">Trials@Home</a> projects. Besides that I&rsquo;m appointed as Extraordinary Professor at the <a href="https://www.optentia.co.za/">Optentia Research Programme</a> of North-West University, South Africa. I&rsquo;m involved in the <a href="https://mc-stan.org/">Stan</a> project. Stan is &ldquo;freedom-respecting, open-source software for facilitating statistical inference at the frontiers of applied statistics&rdquo;. I work on the development of <a href="https://github.com/stan-dev/shinystan/tree/v3-alpha">ShinyStan</a> and have been elected as member of the <a href="https://mc-stan.org/about/">Stan Governing Body</a>.</p>
       <ul class="network-icon" aria-hidden="true">
@@ -800,7 +923,7 @@ if (!doNotTrack) {
     
     
     
-    <script src="/js/academic.min.b59fdb6275ef5e6e2859c30582fc271a.js"></script>
+    <script src="/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
 
     
 
@@ -813,6 +936,16 @@ if (!doNotTrack) {
   
   <div class="container">
     <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="/terms/">Terms</a>
+    
+  </p>
   
 
   <p class="powered-by">
