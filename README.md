@@ -1,4 +1,4 @@
 # website
-personal webpage of Duco Veen
-Created using Hugo Version 0.75.1
-Academic Theme
+Personal webpage of Duco Veen\n
+Created using Hugo Version 0.75.1\n
+Academic Theme\n

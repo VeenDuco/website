@@ -28,7 +28,7 @@ tags:
 title: Generalized Linear Mixed Models for Randomized Responses
 url_code: ""
 url_dataset: ""
-url_pdf: https://dx.doi.org/10.1027/1614-2241/a000153
+url_pdf: https://www.jean-paulfox.com/Fox/documents/Papers/2019/GLMMRR-Foxetal-2019.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""

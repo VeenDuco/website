@@ -26,6 +26,33 @@
     </item>
     
     <item>
+      <title>A prospective, randomized, single-blinded, crossover trial to investigate the effect of a wearable device in addition to a daily symptom diary for the remote early detection of SARS-CoV-2 infections (COVID-RED)</title>
+      <link>https://www.ducoveen.com/publication/2021_covid_red_protocol/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.ducoveen.com/publication/2021_covid_red_protocol/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;It is currently thought that most—but not all—individuals infected with SARS-CoV-2 develop symptoms, but that the infectious period starts on average two days before the first overt symptoms appear. It is estimated that pre- and asymptomatic individuals are responsible for more than half of all transmissions. By detecting infected individuals before they have overt symptoms, wearable devices could potentially and significantly reduce the proportion of transmissions by pre-symptomatic individuals. Using laboratory-confirmed SARS-CoV-2 infections (detected via serology tests [to determine if there are antibodies against the SARS-CoV-2 in the blood] or SARS-CoV-2 infection tests such as polymerase chain reaction [PCR] or antigen tests) as the gold standard, we will determine the sensitivity, specificity, positive predictive value (PPV) and negative predictive value (NPV) for the following two algorithms to detect first time SARS-CoV-2 infection including early or asymptomatic infection. The algorithm using Ava bracelet data when coupled with self-reported Daily Symptom Diary data (Wearable + Symptom Data Algo; experimental condition) the algorithm using self-reported Daily Symptom Diary data alone (Symptom Only Algo; control condition) In addition, we will determine which of the two algorithms has superior performance characteristics for detecting SARS-CoV-2 infection including early or asymptomatic infection as confirmed by SARS-CoV-2 virus testing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Generalized Linear Randomized Response Modeling using GLMMRR</title>
+      <link>https://www.ducoveen.com/publication/2021_glmmrr_software/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.ducoveen.com/publication/2021_glmmrr_software/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Randomized response (RR) designs are used to collect response data about sensitive behaviors (e.g., criminal behavior, sexual desires). The modeling of RR data is more complex, since it requires a description of the RR process. For the class of generalized linear mixed models (GLMMs), the RR process can be represented by an adjusted link function, which relates the expected RR to the linear predictor, for most common RR designs. The package GLMMRR includes modified link functions for four different cumulative distributions (i.e., logistic, cumulative normal, gumbel, cauchy) for GLMs and GLMMs, where the package lme4 facilitates ML and REML estimation. The mixed modeling framework in GLMMRR can be used to jointly analyse data collected under different designs (e.g., dual questioning, multilevel, mixed mode, repeated measurements designs, multiple-group designs). The well-known features of the GLM and GLMM (package lme4) software are remained, while adding new model-fit tests, residual analyses, and plot functions to give support to a profound RR data analysis. Data of Hoglinger and Jann (2018) and Hoglinger, Jann, and Diekmann (2014) is used
+to illustrate the methodology and software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Speech discrimination in infants at family risk of dyslexia. Group and individual-based analyses</title>
       <link>https://www.ducoveen.com/publication/2021_speech-discrimination/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
