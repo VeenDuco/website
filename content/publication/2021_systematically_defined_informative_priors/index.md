@@ -35,7 +35,7 @@ tags:
 - Bayesian statistics
 - longitudinal mediation analysis
 
-title: Systematically Defined Informative Priors in Bayesian Estimation. An Empirical Application on the Transmission of Internalizing Symptoms Through Mother-Adolescent Interaction Behavior
+title: Speech discrimination in infants at family risk of dyslexia. Group and individual-based analyses
 url_code: ""
 url_dataset: ""
 url_pdf: https://doi.org/10.3389/fpsyg.2021.620802
