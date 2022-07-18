@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I currently hold an Assistant Professor position at the [department of Global Health](https://www.globalhealth.eu/) situated at the [Julius Center for Health Sciences and Primary Care](https://juliuscentrum.umcutrecht.nl/en/) of the University Medical Center Utrecht. In that capacity I'm involved in the [COVID-RED](http://www.covid-red.eu/), [AI for Health](https://ewuu.nl/en/research/artificial-intelligence/), and [Trials@Home](https://trialsathome.com/) projects. Besides that I'm appointed as Extraordinary Professor at the [Optentia Research Programme](https://www.optentia.co.za/) of North-West University, South Africa. I'm involved in the [Stan](https://mc-stan.org/) project. Stan is "freedom-respecting, open-source software for facilitating statistical inference at the frontiers of applied statistics". I work on the development of [ShinyStan](https://github.com/stan-dev/shinystan/tree/v3-alpha) and have been elected as member of the [Stan Governing Body](https://mc-stan.org/about/). 
+bio: I currently hold an Assistant Professor position at the [department of methodology and statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) situated at Utrecht University. I'm involved in the [COVID-RED](http://www.covid-red.eu/), and [Trials@Home](https://trialsathome.com/) projects. Besides that I'm appointed as Extraordinary Professor at the [Optentia Research Programme](https://www.optentia.co.za/) of North-West University, South Africa. I'm involved in the [Stan](https://mc-stan.org/) project. Stan is "freedom-respecting, open-source software for facilitating statistical inference at the frontiers of applied statistics". I work on the development of [ShinyStan](https://github.com/stan-dev/shinystan/tree/v3-alpha). 
 
 education:
   courses:
@@ -23,7 +23,7 @@ interests:
 name: Duco Veen
 organizations:
 - name: Assistant Professor
-- name: University Medical Center Utrecht
+- name: Utrecht University
 - name:     
 - name: Extraordinary Professor
 - name: North-West University
@@ -40,13 +40,13 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/veenduco
-- icon: id-card
-  icon_pack: fa
-  link: https://github.com/VeenDuco/website/tree/master/static/docs/CV.pdf
+# - icon: id-card
+#   icon_pack: fa
+#   link: https://github.com/VeenDuco/website/tree/master/static/docs/CV.pdf
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-I currently hold an Assistant Professor position at the [department of Global Health](https://www.globalhealth.eu/) situated at the [Julius Center for Health Sciences and Primary Care](https://juliuscentrum.umcutrecht.nl/en/) of the University Medical Center Utrecht. In that capacity I'm involved in the [COVID-RED](http://www.covid-red.eu/), [AI for Health](https://ewuu.nl/en/research/artificial-intelligence/), and [Trials@Home](https://trialsathome.com/) projects. Besides that I'm appointed as Extraordinary Professor at the [Optentia Research Programme](https://www.optentia.co.za/) of North-West University, South Africa. I'm involved in the [Stan](https://mc-stan.org/) project. Stan is "freedom-respecting, open-source software for facilitating statistical inference at the frontiers of applied statistics". I work on the development of [ShinyStan](https://github.com/stan-dev/shinystan/tree/v3-alpha) and have been elected as member of the [Stan Governing Body](https://mc-stan.org/about/). 
+I currently hold an Assistant Professor position at the [department of methodology and statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) situated at Utrecht University. I'm involved in the [COVID-RED](http://www.covid-red.eu/), and [Trials@Home](https://trialsathome.com/) projects. Besides that I'm appointed as Extraordinary Professor at the [Optentia Research Programme](https://www.optentia.co.za/) of North-West University, South Africa. I'm involved in the [Stan](https://mc-stan.org/) project. Stan is "freedom-respecting, open-source software for facilitating statistical inference at the frontiers of applied statistics". I work on the development of [ShinyStan](https://github.com/stan-dev/shinystan/tree/v3-alpha). 
